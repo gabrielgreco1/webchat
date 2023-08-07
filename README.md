@@ -8,9 +8,9 @@ Ferramentas utilizadas:
 
 HTML, CSS e Javascript;
 
-Flask: Flask é um framework leve para desenvolvimento web em Python. Ele facilita a criação de aplicativos web e APIs, fornecendo uma estrutura para gerenciar rotas, solicitações e respostas HTTP, bem como a renderização de templates.
+Flask;
 
-WebSocket: A tecnologia WebSocket é a peça central do projeto. Ela permite uma conexão persistente e bidirecional entre o servidor e o cliente, tornando possível o envio e recebimento de mensagens em tempo real. Através da API WebSocket no JavaScript, os usuários podem enviar suas mensagens ao servidor, que, por sua vez, encaminha essas mensagens para todos os outros clientes conectados, garantindo que todos vejam as mensagens na tela em tempo real.
+WebSocket; ( A tecnologia WebSocket é a peça central do projeto. Ela permite uma conexão persistente e bidirecional entre o servidor e o cliente, tornando possível o envio e recebimento de mensagens em tempo real. Através da API WebSocket no JavaScript, os usuários podem enviar suas mensagens ao servidor, que, por sua vez, encaminha essas mensagens para todos os outros clientes conectados, garantindo que todos vejam as mensagens na tela em tempo real. )
 
 -----------------------------------------------------------------------------------------------------------
 
